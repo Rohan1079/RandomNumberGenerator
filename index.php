@@ -1,5 +1,7 @@
 <?php
 
+//This is my code to generate the random number
+
 $noOfRolls = 0;
 $diceType = "";
 
